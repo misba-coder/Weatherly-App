@@ -25,7 +25,7 @@ This project demonstrates the integration of **APIs, dynamic UI updates, and mod
 
 ---
 ## 🚀 Features
-- **🌞 Dynamic Day & Night Mode**  Create new entries, view all client entries, update them, delete them
+- **🌞 Dynamic Day & Night Mode:**  UI automatically changes background, text color, and animations based on sunrise and sunset times.
 
 - **🌧️ Real-Time Weather Data:** Displays live temperature, humidity, wind speed, sea level, sunrise, and sunset.
 
