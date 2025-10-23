@@ -54,11 +54,11 @@ This project demonstrates the integration of **APIs, dynamic UI updates, and mod
 
 - Dynamically updates the UI:
 
-   1.Background image
+   1. Background image
 
-   2.Lottie animation
+   2. Lottie animation
 
-   3.Text color for readability
+   3. Text color for readability
 ---
 ## 🔥 Highlights
 - Implemented dynamic theming and readability adjustments for better UX.
