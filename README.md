@@ -3,11 +3,11 @@
 <p align="center">Because every degree counts</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Lottie-FF4088?style=for-the-badge&logo=lottiefiles&logoColor=white" />
-   <img src="https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white" />
+ <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Retrofit-00796B?style=for-the-badge&logo=square&logoColor=white" />
+<img src="https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white" />
 </p>
 
 ## 🌤️ About the Project
