@@ -20,7 +20,7 @@ This project demonstrates the integration of **APIs, dynamic UI updates, and mod
 ## 🖼 Screenshots
 
 <p align="center">
-  <img src="https://github.com/misba-coder/Truecaller/blob/main/assets/truecaller.gif" alt ="Mobile Screenshot" width="350"/>
+  <img src="https://github.com/misba-coder/Weatherly-App/blob/main/weather_assets/all.gif" alt ="Mobile Screenshot" width="350"/>
 </p>
 
 ---
