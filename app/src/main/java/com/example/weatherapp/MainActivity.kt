@@ -59,7 +59,7 @@ class MainActivity : AppCompatActivity() {
 
 
         val response =
-            retrofit.getWeatherData(cityName, "1a9dd7511fb0692a15a9f7afa28d9350", "metric")
+            retrofit.getWeatherData(cityName, "Your_API_KEY", "metric")
 
 
 
