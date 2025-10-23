@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> 
   <img src="https://img.shields.io/badge/Lottie-FF4088?style=for-the-badge&logo=lottiefiles&logoColor=white" />
+   <img src="https://img.shields.io/badge/XML-005C84?style=for-the-badge&logo=xml&logoColor=white" />
 </p>
----
 
 ## 🌤️ About the Project
 **Weatherly App** is a dynamic Android application built using Kotlin that provides real-time weather information based on live API data.
