@@ -76,5 +76,4 @@ This project demonstrates the integration of **APIs, dynamic UI updates, and mod
 **Misba Khatoon**
 *[Android Developer]* | MCA Graduate
 
-📧 Email: [Email](misbakhatoon910@gmail.com) 
 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/misba-khatoon-5067a3302) 
