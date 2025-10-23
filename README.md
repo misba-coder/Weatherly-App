@@ -70,6 +70,8 @@ This project demonstrates the integration of **APIs, dynamic UI updates, and mod
 - Focused on real-world weather data visualization for learning and showcasing Android development capabilities.
 ---
 ## Developer
- Misba Khatoon
-📍 Kolkata, India
-💼 Android Developer | MCA Graduate
+**Misba Khatoon**
+*[Android Developer]* |MCA Graduate
+
+📧 Email: [Email](misbakhatoon910@gmail.com) 
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/misba-khatoon-5067a3302) 
